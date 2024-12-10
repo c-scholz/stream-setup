@@ -1,2 +1,2 @@
 # stream-setup
-comprehensive tutorial on how to set up a stream
+Comprehensive tutorial on how to set up a (Twitch) Stream.
